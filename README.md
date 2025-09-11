@@ -1,6 +1,6 @@
 # Live2D Models
 
-收集一些喜欢的Live2d模型，主要用于个人网站的看板娘, 本仓库fork自https://github.com/oh-my-live2d/live2d-models
+收集一些喜欢的Live2d模型，主要用于个人网站的看板娘, 原仓库地址：https://github.com/oh-my-live2d/live2d-models
 
 ## 使用方法
 
